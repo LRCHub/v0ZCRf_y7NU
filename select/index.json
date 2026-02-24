@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Upside Down",
+  "base_artist": "JVKE",
+  "createdAt": "2026-02-24T07:30:46.765570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Upside Down",
+      "artist": "Yayoyanoh",
+      "has_synced": false,
+      "path": "select/01_Upside_Down_Yayoyanoh.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Upside Down",
+      "artist": "Magazine",
+      "has_synced": false,
+      "path": "select/02_Upside_Down_Magazine.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "upside down",
+      "artist": "nothing,nowhere.",
+      "has_synced": false,
+      "path": "select/03_upside_down_nothing,nowhere..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Upside Down",
+      "artist": "The Jesus and Mary Chain",
+      "has_synced": true,
+      "path": "select/04_Upside_Down_The_Jesus_and_Mary_Chain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Upside Down",
+      "artist": "Cut 'n' Move",
+      "has_synced": true,
+      "path": "select/05_Upside_Down_Cut_'n'_Move.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hung Upside Down",
+      "artist": "Buffalo Springfield",
+      "has_synced": true,
+      "path": "select/06_Hung_Upside_Down_Buffalo_Springfield.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The World Turned Upside Down",
+      "artist": "Billy Bragg",
+      "has_synced": false,
+      "path": "select/07_The_World_Turned_Upside_Down_Billy_Bragg.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Living Upside Down",
+      "artist": "Cut Copy",
+      "has_synced": true,
+      "path": "select/08_Living_Upside_Down_Cut_Copy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Upside Down - Original CHIC Mix",
+      "artist": "Diana Ross",
+      "has_synced": true,
+      "path": "select/09_Upside_Down_-_Original_CHIC_Mix_Diana_Ross.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Upside Down (Original Chic Mix)",
+      "artist": "Diana Ross",
+      "has_synced": true,
+      "path": "select/10_Upside_Down_(Original_Chic_Mix)_Diana_Ross.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "World Upside Down",
+      "artist": "House of Lords",
+      "has_synced": false,
+      "path": "select/11_World_Upside_Down_House_of_Lords.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Upside Down",
+      "artist": "Two Minds Crack",
+      "has_synced": true,
+      "path": "select/12_Upside_Down_Two_Minds_Crack.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yorktown (The World Turned Upside Down)",
+      "artist": "Original Broadway Cast of Hamilton",
+      "has_synced": true,
+      "path": "select/13_Yorktown_(The_World_Turned_Upside_Down)_Original_Broadway_Cast_of_Hamilton.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Heaven Upside Down",
+      "artist": "Marilyn Manson",
+      "has_synced": false,
+      "path": "select/14_Heaven_Upside_Down_Marilyn_Manson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Upside Down",
+      "artist": "JVKE",
+      "has_synced": false,
+      "path": "select/pl_01_Upside_Down_JVKE.txt"
+    }
+  ]
+}
